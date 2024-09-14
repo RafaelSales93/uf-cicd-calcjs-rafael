@@ -1,0 +1,11 @@
+{
+  "name": "ufcicd-calcjs-rafaelsales",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
